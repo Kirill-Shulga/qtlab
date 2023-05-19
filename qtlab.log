@@ -1,0 +1,1167 @@
+2021-12-15 18:30 WARNING : Unable to load config file. (config.py:79)
+2021-12-15 18:33 WARNING : Unable to load config file. (config.py:79)
+2021-12-15 18:36 WARNING : Unable to load config file. (config.py:79)
+2021-12-15 18:36 WARNING : Unable to load config file. (config.py:79)
+2021-12-15 18:37 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-15 18:40 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-15 18:40 WARNING : Unable to load config file. (config.py:79)
+2021-12-15 18:40 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-15 18:42 WARNING : Unable to load config file. (config.py:79)
+2021-12-15 18:42 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-16 13:25 WARNING : Unable to load config file. (config.py:79)
+2021-12-16 15:08 WARNING : Unable to load config file. (config.py:79)
+2021-12-16 15:09 WARNING : Unable to load config file. (config.py:79)
+2021-12-16 16:32 WARNING : Unable to load config file. (config.py:79)
+2021-12-16 17:05 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-16 17:14 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-16 17:57 WARNING : Unable to load config file. (config.py:79)
+2021-12-16 17:57 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-16 18:03 WARNING : Unable to load config file. (config.py:79)
+2021-12-16 18:04 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-17 14:49 WARNING : Unable to load config file. (config.py:79)
+2021-12-17 14:52 WARNING : Unable to load config file. (config.py:79)
+2021-12-17 14:53 WARNING : Unable to load config file. (config.py:79)
+2021-12-17 14:54 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2021-12-17 14:54 INFO    : Labbrick : get all (Labbrick.py:77)
+2021-12-24 14:28 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 14:56 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 14:56 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2021-12-24 14:56 INFO    : Labbrick : get all (Labbrick.py:77)
+2021-12-24 14:58 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2021-12-24 14:59 INFO    : Keysight_E5071CA : Initializing instrument (Keysight_E5071CA.py:28)
+2021-12-24 14:59 INFO    : Keysight_E5071CA : Initializing instrument (Keysight_E5071CA.py:28)
+2021-12-24 15:15 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:17 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:19 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:52 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:52 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:53 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:55 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 15:59 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 15:59 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:00 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:00 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 16:00 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:01 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 16:01 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:01 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2021-12-24 16:04 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:04 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2021-12-24 16:05 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 16:05 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:05 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2021-12-24 16:06 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 16:06 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:06 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2021-12-24 16:07 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:07 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2021-12-24 16:07 WARNING : Unable to load config file. (config.py:79)
+2021-12-24 16:07 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2021-12-24 16:07 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1108)
+2021-12-24 16:07 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2021-12-24 16:07 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1108)
+2021-12-24 16:07 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:399)
+2021-12-24 16:07 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2021-12-24 16:07 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:434)
+2021-12-24 16:08 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2021-12-24 16:08 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-01-04 13:33 WARNING : Unable to load config file. (config.py:79)
+2022-01-04 13:36 WARNING : Unable to load config file. (config.py:79)
+2022-01-04 13:37 WARNING : Unable to load config file. (config.py:79)
+2022-01-04 13:37 WARNING : Unable to load config file. (config.py:79)
+2022-01-04 13:42 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-04 13:47 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-01-04 13:47 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-01-04 13:47 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-01-04 13:47 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-01-04 13:47 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-01-04 13:47 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-01-04 13:47 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:399)
+2022-01-04 13:47 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-01-04 13:47 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:434)
+2022-01-04 13:47 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-01-11 15:56 WARNING : Unable to load config file. (config.py:79)
+2022-01-11 15:57 WARNING : Unable to load config file. (config.py:79)
+2022-01-11 15:58 WARNING : Unable to load config file. (config.py:79)
+2022-01-11 15:58 WARNING : Unable to load config file. (config.py:79)
+2022-01-11 16:00 WARNING : Unable to load config file. (config.py:79)
+2022-01-11 16:01 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:12 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:14 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:16 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:17 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:21 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:22 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:25 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 13:26 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 15:24 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 15:24 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 15:25 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 15:26 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 15:57 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 15:58 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 15:58 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:01 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:02 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:03 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:03 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 16:04 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:04 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 16:04 WARNING : Instrument does not implement function set_S21 (instrument.py:735)
+2022-01-17 16:04 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:05 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 16:13 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 16:13 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 17:46 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 17:49 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 17:49 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 18:00 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 18:00 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-17 18:01 WARNING : Unable to load config file. (config.py:79)
+2022-01-17 18:01 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-19 18:01 WARNING : Unable to load config file. (config.py:79)
+2022-01-19 18:01 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 16:27 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 16:34 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 16:34 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 16:34 WARNING : Instrument does not implement function set_S21 (instrument.py:735)
+2022-01-24 16:35 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 16:35 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 16:40 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 16:40 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 16:52 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 16:52 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:01 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:01 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:04 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:04 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:11 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:11 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:11 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:27 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:28 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:33 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:33 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:34 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:34 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 17:36 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 17:36 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 18:27 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:27 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:28 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:28 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:28 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 18:30 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:30 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 18:31 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:31 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-24 18:40 WARNING : Unable to load config file. (config.py:79)
+2022-01-24 18:40 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-25 14:26 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:30 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:41 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 14:43 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:44 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 14:45 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:45 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 14:46 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:46 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 14:49 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:49 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 14:56 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:56 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 14:57 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 14:57 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 15:09 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 15:09 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 15:15 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 15:15 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-25 15:20 WARNING : Unable to load config file. (config.py:79)
+2022-01-25 15:20 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-27 11:11 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 11:12 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 11:14 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 11:22 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-27 11:37 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 11:39 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 11:39 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-27 12:19 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 12:42 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-27 13:08 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-27 13:08 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-27 13:09 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-27 15:17 INFO    : Made a temporary copy of voise/Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PS5389pmh9.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:17 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PS5389pmh9.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:17 ERROR   : 
+    Error 263 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PS5389pmh9.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:17 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PS5389pmh9.mp3" (playsound.py:79)
+2022-01-27 15:17 INFO    : Made a temporary copy of voise\Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PSr_hri14m.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:17 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PSr_hri14m.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:17 ERROR   : 
+    Error 263 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PSr_hri14m.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:17 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PSr_hri14m.mp3" (playsound.py:79)
+2022-01-27 15:17 INFO    : Made a temporary copy of voise/Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PS3d51zc3h.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:17 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PS3d51zc3h.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:17 ERROR   : 
+    Error 263 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PS3d51zc3h.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:17 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PS3d51zc3h.mp3" (playsound.py:79)
+2022-01-27 15:17 INFO    : Made a temporary copy of voise\Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PSw4v6ohab.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:17 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PSw4v6ohab.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:17 ERROR   : 
+    Error 263 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PSw4v6ohab.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:17 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PSw4v6ohab.mp3" (playsound.py:79)
+2022-01-27 15:17 INFO    : Made a temporary copy of Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PSr_rdenw0.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:18 INFO    : Made a temporary copy of Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PSrxj41tiq.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:18 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PSrxj41tiq.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:18 ERROR   : 
+    Error 305 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PSrxj41tiq.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:18 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PSrxj41tiq.mp3" (playsound.py:79)
+2022-01-27 15:18 INFO    : Made a temporary copy of Magnetic field is Zero!.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PS9atfpfqx.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:18 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PS9atfpfqx.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:18 ERROR   : 
+    Error 263 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PS9atfpfqx.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:18 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PS9atfpfqx.mp3" (playsound.py:79)
+2022-01-27 15:18 INFO    : Made a temporary copy of voise/Magnetic field is Zero.mp3 at C:\Users\KONSTA~1\AppData\Local\Temp\PScq5ru7qi.mp3 - use other filenames with only safe characters to avoid this. (playsound.py:40)
+2022-01-27 15:18 ERROR   : 
+    Error 305 for command:
+        open "C:\Users\KONSTA~1\AppData\Local\Temp\PScq5ru7qi.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:18 ERROR   : 
+    Error 263 for command:
+        close "C:\Users\KONSTA~1\AppData\Local\Temp\PScq5ru7qi.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:18 WARNING : Failed to close the file: "C:\Users\KONSTA~1\AppData\Local\Temp\PScq5ru7qi.mp3" (playsound.py:79)
+2022-01-27 15:19 ERROR   : 
+    Error 263 for command:
+        open voise/zero.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:19 ERROR   : 
+    Error 263 for command:
+        close voise/zero.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:19 WARNING : Failed to close the file: voise/zero.mp3 (playsound.py:79)
+2022-01-27 15:19 ERROR   : 
+    Error 263 for command:
+        open zero.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:19 ERROR   : 
+    Error 263 for command:
+        close zero.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:19 WARNING : Failed to close the file: zero.mp3 (playsound.py:79)
+2022-01-27 15:21 ERROR   : 
+    Error 259 for command:
+        play voise/zero.mp3 wait
+    The driver cannot recognize the specified command parameter. (playsound.py:63)
+2022-01-27 15:21 ERROR   : 
+    Error 263 for command:
+        close voise/zero.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:21 WARNING : Failed to close the file: voise/zero.mp3 (playsound.py:79)
+2022-01-27 15:28 WARNING : Unable to load config file. (config.py:79)
+2022-01-27 15:28 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-27 15:29 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-27 15:32 ERROR   : 
+    Error 275 for command:
+        open voise/zero.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct. (playsound.py:63)
+2022-01-27 15:32 ERROR   : 
+    Error 263 for command:
+        close voise/zero.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:32 WARNING : Failed to close the file: voise/zero.mp3 (playsound.py:79)
+2022-01-27 15:34 ERROR   : 
+    Error 277 for command:
+        open "C:\qtlab_replacementoise\zero.mp3"
+    A problem occurred in initializing MCI. (playsound.py:63)
+2022-01-27 15:34 ERROR   : 
+    Error 263 for command:
+        close "C:\qtlab_replacementoise\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:34 WARNING : Failed to close the file: "C:\qtlab_replacementoise\zero.mp3" (playsound.py:79)
+2022-01-27 15:34 ERROR   : 
+    Error 305 for command:
+        open "C:\qtlab_replacementoise\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:34 ERROR   : 
+    Error 263 for command:
+        close "C:\qtlab_replacementoise\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:34 WARNING : Failed to close the file: "C:\qtlab_replacementoise\zero.mp3" (playsound.py:79)
+2022-01-27 15:34 ERROR   : 
+    Error 305 for command:
+        open "C:\qtlab_replacementoise\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:34 ERROR   : 
+    Error 263 for command:
+        close "C:\qtlab_replacementoise\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 15:34 WARNING : Failed to close the file: "C:\qtlab_replacementoise\zero.mp3" (playsound.py:79)
+2022-01-27 15:35 ERROR   : 
+    Error 305 for command:
+        open "C:\qtlab_replacement\voise\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:35 ERROR   : 
+    Error 305 for command:
+        close "C:\qtlab_replacement\voise\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 15:35 WARNING : Failed to close the file: "C:\qtlab_replacement\voise\zero.mp3" (playsound.py:79)
+2022-01-27 16:09 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-27 17:30 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\complete.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 17:30 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\complete.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 17:30 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\complete.mp3" (playsound.py:79)
+2022-01-27 18:14 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\complete.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:14 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\complete.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 18:14 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\complete.mp3" (playsound.py:79)
+2022-01-27 18:17 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:17 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:17 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:22 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:22 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:22 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:22 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:22 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 18:22 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:22 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:22 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 18:22 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:22 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:22 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:22 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:23 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:23 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:23 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:23 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:23 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 18:23 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:25 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:25 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:25 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:25 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:25 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:25 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:25 ERROR   : 
+    Error 305 for command:
+        open "C:\\\\qtlab_replacement\\\\voise\\\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:25 ERROR   : 
+    Error 263 for command:
+        close "C:\\\\qtlab_replacement\\\\voise\\\\stable.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 18:25 WARNING : Failed to close the file: "C:\\\\qtlab_replacement\\\\voise\\\\stable.mp3" (playsound.py:79)
+2022-01-27 18:25 ERROR   : 
+    Error 259 for command:
+        play C:/qtlab_replacement/voise/stable.mp3 wait
+    The driver cannot recognize the specified command parameter. (playsound.py:63)
+2022-01-27 18:25 ERROR   : 
+    Error 263 for command:
+        close C:/qtlab_replacement/voise/stable.mp3
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 18:25 WARNING : Failed to close the file: C:/qtlab_replacement/voise/stable.mp3 (playsound.py:79)
+2022-01-27 18:26 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:26 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:26 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:47 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:47 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 18:47 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-27 18:49 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-27 20:03 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 20:03 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-27 20:03 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\zero.mp3" (playsound.py:79)
+2022-01-27 20:17 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 20:17 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-27 20:17 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 11:55 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 11:55 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 11:55 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 12:00 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-28 13:00 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:00 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:00 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:03 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:03 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:03 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:36 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:36 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-28 13:36 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\zero.mp3" (playsound.py:79)
+2022-01-28 13:38 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:38 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:38 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:40 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:40 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:40 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:42 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:42 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:42 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:45 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:45 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:45 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:46 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:46 ERROR   : 
+    Error 305 for command:
+        close "C:\\qtlab_replacement\\voise\\stable.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:46 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\stable.mp3" (playsound.py:79)
+2022-01-28 13:53 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 13:53 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-28 13:53 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\zero.mp3" (playsound.py:79)
+2022-01-28 14:06 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\complete.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 14:06 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\complete.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-28 14:06 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\complete.mp3" (playsound.py:79)
+2022-01-28 14:07 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 14:29 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 14:31 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 14:31 WARNING : Unable to load config file. (config.py:79)
+2022-01-28 14:31 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 14:38 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-28 15:25 WARNING : Unable to load config file. (config.py:79)
+2022-01-28 15:25 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-28 15:26 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 15:29 WARNING : Unable to load config file. (config.py:79)
+2022-01-28 15:29 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-28 15:29 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 16:19 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-28 16:40 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-28 16:47 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-28 16:48 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-28 17:15 ERROR   : 
+    Error 305 for command:
+        open "C:\\qtlab_replacement\\voise\\zero.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks. (playsound.py:63)
+2022-01-28 17:15 ERROR   : 
+    Error 263 for command:
+        close "C:\\qtlab_replacement\\voise\\zero.mp3"
+    The specified device is not open or is not recognized by MCI. (playsound.py:63)
+2022-01-28 17:15 WARNING : Failed to close the file: "C:\\qtlab_replacement\\voise\\zero.mp3" (playsound.py:79)
+2022-01-28 17:18 WARNING : Unable to load config file. (config.py:79)
+2022-01-28 17:19 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-01-28 17:33 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-01-28 19:02 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 21:41 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-01-28 21:52 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-01-28 21:52 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-01-31 15:13 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-01-31 15:13 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-02-01 16:29 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-02-01 18:18 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-02-10 15:18 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:27 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:27 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:27 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:27 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:27 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:399)
+2022-02-10 15:27 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:27 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:434)
+2022-02-10 15:27 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:27 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:27 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:31 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:31 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:31 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:31 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:31 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:31 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:399)
+2022-02-10 15:31 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:31 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:434)
+2022-02-10 15:31 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:31 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:399)
+2022-02-10 15:33 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:33 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:33 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:33 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:33 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:33 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:400)
+2022-02-10 15:33 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:33 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:435)
+2022-02-10 15:33 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:33 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:400)
+2022-02-10 15:33 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:400)
+2022-02-10 15:36 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:36 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:36 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:36 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:36 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:36 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:400)
+2022-02-10 15:36 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:36 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:435)
+2022-02-10 15:36 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:36 WARNING : SRS_SG380 : answer to MFNC? was not expected : 3
+ (SRS_SG380.py:400)
+2022-02-10 15:37 ERROR   : Value 2 is not a valid option for "modulation_function", valid: "('sine', 'ramp', 'triangle', 'square', 'noise', 'external')" (instrument.py:864)
+2022-02-10 15:37 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:37 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:38 ERROR   : Value SINE is not a valid option for "modulation_function", valid: "('sine', 'ramp', 'triangle', 'square', 'noise', 'external')" (instrument.py:864)
+2022-02-10 15:38 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:43 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:44 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:44 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:44 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:44 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:44 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:44 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:434)
+2022-02-10 15:44 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:44 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:47 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:47 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:47 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:47 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:47 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:47 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:47 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:432)
+2022-02-10 15:47 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:47 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:56 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:56 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:56 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:56 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:56 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:56 WARNING : SRS_SG380 : answer to COUP? was not 0 or 1 : 0
+ (SRS_SG380.py:359)
+2022-02-10 15:56 WARNING : SRS_SG380 : answer to TYPE? was not expected : 3
+ (SRS_SG380.py:433)
+2022-02-10 15:56 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:57 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 15:57 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 15:57 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:57 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 15:57 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 15:57 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:58 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:58 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 15:59 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:04 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:05 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:05 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:05 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:05 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:05 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:05 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:05 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:05 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:09 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:09 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:09 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:09 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:09 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:09 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:09 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:10 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:10 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:10 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:10 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:10 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:10 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:13 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:13 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:13 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:13 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:13 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:13 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:14 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:14 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:14 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:14 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:14 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:14 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:14 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:15 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:15 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:15 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:15 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:16 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:18 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:21 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:21 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:21 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:21 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:21 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:21 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:21 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:23 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:23 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:23 WARNING : Get not implemented for SRS_SG380.timebase (instrument.py:1107)
+2022-02-10 16:25 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:26 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:26 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:26 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:26 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:26 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:27 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:29 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:29 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:29 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:29 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:30 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:34 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:34 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:34 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:34 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:35 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:40 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:40 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:40 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:40 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:42 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:42 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:42 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:42 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:43 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:53 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 16:56 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:56 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:56 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 16:56 WARNING : Unable to cast value "OFF" to <class 'int'> (instrument.py:685)
+2022-02-10 16:57 WARNING : Unable to cast value "OFF" to <class 'int'> (instrument.py:685)
+2022-02-10 16:58 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 16:58 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 16:58 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 17:00 ERROR   : Value 0 is not a valid option for "modulation_function", valid: "('sine', 'ramp', 'triangle', 'square', 'noise', 'external')" (instrument.py:864)
+2022-02-10 17:00 WARNING : Unsupported type <class 'NoneType'> (instrument.py:815)
+2022-02-10 17:01 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:01 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:01 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 17:01 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 17:01 WARNING : Unsupported type <class 'str'> (instrument.py:815)
+2022-02-10 17:02 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:02 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:03 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:04 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:05 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:05 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:05 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:06 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:07 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:07 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:07 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:07 INFO    : SRS_SG380 : get all (SRS_SG380.py:156)
+2022-02-10 17:08 WARNING : Unsupported type <class 'str'> (instrument.py:815)
+2022-02-10 17:15 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:15 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:15 INFO    : SRS_SG380 : get all (SRS_SG380.py:158)
+2022-02-10 17:15 WARNING : Unable to cast value "square, 3" to <class 'int'> (instrument.py:668)
+2022-02-10 17:15 WARNING : Unable to cast value "sweep, 3" to <class 'int'> (instrument.py:668)
+2022-02-10 17:16 WARNING : Conversion of 'sine' to type <class 'int'> failed (instrument.py:805)
+2022-02-10 17:16 WARNING : Unable to cast value "square, 3" to <class 'int'> (instrument.py:668)
+2022-02-10 17:20 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:20 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:20 INFO    : SRS_SG380 : get all (SRS_SG380.py:158)
+2022-02-10 17:24 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:24 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:24 INFO    : SRS_SG380 : get all (SRS_SG380.py:158)
+2022-02-10 17:25 ERROR   : Value 0 is not a valid option for "modulation_type", valid: "('AM', 'FM', 'PhaseM', 'sweep', 'pulse', 'blank', 'IQ')" (instrument.py:847)
+2022-02-10 17:26 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 17:26 INFO    : SRS_SG380 : Initializing instrument SRS_SG386 (SRS_SG380.py:31)
+2022-02-10 17:26 INFO    : SRS_SG380 : get all (SRS_SG380.py:151)
+2022-02-10 17:55 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-10 17:56 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-10 18:15 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 18:15 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-10 18:32 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 18:32 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-10 18:35 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 18:36 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-10 18:40 WARNING : Unable to load config file. (config.py:79)
+2022-02-10 18:40 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-17 17:38 INFO    : NF_LI5650 : Initializing instrument LI5650 NF Lock In Amplifier (NF_LI5650.py:12)
+2022-02-18 14:03 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-02-18 14:04 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-02-25 14:36 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-03-01 15:40 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-03-03 15:07 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-03-03 15:08 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-03-03 15:08 INFO    : American_Magnetics_430 : Initializing instrument American Magnetics Magnet 430 (American_Magnetics_430.py:16)
+2022-03-03 15:29 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-03-03 15:29 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-03-14 16:00 WARNING : Unable to load config file. (config.py:79)
+2022-03-14 16:01 INFO    : The voltage is stable (basic_notifier.py:49)
+2022-03-14 16:01 INFO    : The voltage is stable (basic_notifier.py:49)
+2022-03-14 16:01 INFO    : The voltage is stable (basic_notifier.py:49)
+2022-03-14 16:01 INFO    : The voltage is stable (basic_notifier.py:49)
+2022-03-16 11:13 WARNING : Unable to load config file. (config.py:79)
+2022-03-16 11:18 WARNING : Unable to load config file. (config.py:79)
+2022-03-16 11:24 WARNING : Unable to load config file. (config.py:79)
+2022-03-16 11:27 WARNING : Unable to load config file. (config.py:79)
+2022-03-16 11:28 WARNING : Unable to load config file. (config.py:79)
+2022-03-16 11:31 WARNING : Unable to load config file. (config.py:79)
+2022-03-16 11:32 WARNING : Unable to load config file. (config.py:79)
+2022-07-11 19:04 WARNING : Unable to load config file. (config.py:79)
+2022-07-11 19:06 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-07-12 11:51 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-07-12 14:04 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-07-12 14:05 WARNING : Unable to load config file. (config.py:79)
+2022-07-12 14:06 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-07-12 14:06 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-07-12 14:08 INFO    : Keysight_E5071C : Initializing instrument (Keysight_E5071C.py:28)
+2022-09-05 13:55 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 13:58 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 13:59 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 13:59 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 13:59 WARNING : Get not implemented for Anritsu_MS2830A.startfreq (instrument.py:767)
+2022-09-05 13:59 WARNING : Set not implemented for Anritsu_MS2830A.startfreq (instrument.py:771)
+2022-09-05 13:59 WARNING : Get not implemented for Anritsu_MS2830A.stopfreq (instrument.py:767)
+2022-09-05 13:59 WARNING : Set not implemented for Anritsu_MS2830A.stopfreq (instrument.py:771)
+2022-09-05 13:59 WARNING : Get not implemented for Anritsu_MS2830A.bandwidth (instrument.py:767)
+2022-09-05 13:59 WARNING : Set not implemented for Anritsu_MS2830A.bandwidth (instrument.py:771)
+2022-09-05 13:59 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:80)
+2022-09-05 14:01 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.startfreq (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.startfreq (instrument.py:771)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.stopfreq (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.stopfreq (instrument.py:771)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.bandwidth (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.bandwidth (instrument.py:771)
+2022-09-05 14:01 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:80)
+2022-09-05 14:01 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.startfreq (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.startfreq (instrument.py:771)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.stopfreq (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.stopfreq (instrument.py:771)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.bandwidth (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.bandwidth (instrument.py:771)
+2022-09-05 14:01 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:80)
+2022-09-05 14:01 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:01 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.startfreq (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.startfreq (instrument.py:771)
+2022-09-05 14:01 WARNING : Get not implemented for Anritsu_MS2830A.stopfreq (instrument.py:767)
+2022-09-05 14:01 WARNING : Set not implemented for Anritsu_MS2830A.stopfreq (instrument.py:771)
+2022-09-05 14:01 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:80)
+2022-09-05 14:07 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:11 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:12 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:12 WARNING : Instrument does not implement function get_tracedata (instrument.py:716)
+2022-09-05 14:12 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:12 WARNING : Instrument does not implement function get_tracedata (instrument.py:716)
+2022-09-05 14:13 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:13 WARNING : Instrument does not implement function get_tracedata (instrument.py:716)
+2022-09-05 14:13 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:13 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:13 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:13 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:13 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:13 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:19 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:19 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:19 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:21 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:21 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:21 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:22 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:22 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:22 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:30 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:30 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:30 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:37 INFO    : Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting. (category.py:218)
+2022-09-05 14:37 INFO    : Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting. (category.py:218)
+2022-09-05 14:39 INFO    : Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting. (category.py:218)
+2022-09-05 14:39 INFO    : Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting. (category.py:218)
+2022-09-05 14:40 INFO    : Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting. (category.py:218)
+2022-09-05 14:40 INFO    : Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting. (category.py:218)
+2022-09-05 14:47 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:47 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:47 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:49 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:49 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:49 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:86)
+2022-09-05 14:52 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 14:52 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 14:52 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:90)
+2022-09-05 15:15 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 15:15 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 15:32 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 15:32 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 15:32 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:90)
+2022-09-05 15:33 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 15:33 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 15:33 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 15:33 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 15:33 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:90)
+2022-09-05 15:33 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 15:33 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 15:45 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 15:46 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 15:46 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 15:46 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 15:46 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 15:46 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 15:47 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 15:47 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 15:47 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 15:47 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 15:47 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 15:48 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 15:48 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 15:48 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 15:48 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 15:48 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:14 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:14 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 16:14 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 16:15 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:15 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:18 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:18 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 16:18 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 16:19 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 16:19 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 16:19 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:19 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:22 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:22 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 16:22 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 16:22 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:22 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:25 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:25 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:25)
+2022-09-05 16:25 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:92)
+2022-09-05 16:25 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:25 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:26 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:26 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-05 16:26 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-05 16:26 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:26 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:28 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:28 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-05 16:28 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-05 16:28 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:28 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:30 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:30 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-05 16:30 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-05 16:30 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:30 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:32 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:32 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-05 16:32 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-05 16:32 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:32 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-05 16:34 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-05 16:34 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-05 16:34 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-05 16:34 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-05 16:34 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-06 11:12 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-06 11:12 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-06 11:16 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-06 11:16 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-06 12:11 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-06 12:11 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:93)
+2022-09-06 12:11 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-06 12:11 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-06 12:14 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-06 12:14 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-06 12:14 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:97)
+2022-09-06 12:14 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-06 12:14 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-06 12:17 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-06 12:17 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-06 12:17 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:97)
+2022-09-06 12:17 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-06 12:17 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-06 12:19 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-06 12:19 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-06 12:19 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:97)
+2022-09-06 12:19 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-06 12:19 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-06 16:45 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-06 16:45 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-06 16:45 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:97)
+2022-09-06 16:46 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-09-06 16:46 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-09-07 12:41 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-07 12:42 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-09-07 13:04 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-07 16:04 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-07 16:07 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-07 16:07 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-07 16:07 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-07 16:07 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-07 16:07 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-07 17:15 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-07 17:23 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-07 17:23 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 16:44 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 16:45 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 16:45 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 16:52 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-08 16:52 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 17:05 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-08 17:05 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:14 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:14 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:14 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:14 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-08 18:15 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:16 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:16 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:16 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-08 18:17 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:23 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-08 18:23 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-08 18:30 WARNING : Unable to load config file. (config_qt.py:62)
+2022-09-08 18:30 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-13 12:58 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-09-13 13:00 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-03 12:31 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-03 12:33 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-10-03 12:34 INFO    : Keysight_M3102A : Initializing instrument Spectrum (Keysight_M3102A.py:13)
+2022-10-26 12:05 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 12:05 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 12:05 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:97)
+2022-10-26 12:06 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-10-26 12:06 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-10-26 12:10 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 13:59 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 15:43 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-10-26 15:43 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-10-26 18:52 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 18:52 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:97)
+2022-10-26 18:53 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 18:53 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 18:53 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:107)
+2022-10-26 18:54 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 18:54 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 18:54 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:107)
+2022-10-26 18:55 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 18:55 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 18:55 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:107)
+2022-10-26 18:57 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 18:57 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 18:57 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:107)
+2022-10-26 18:59 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:00 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:00 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:00 WARNING : Instrument does not implement function get_sweep_time (instrument.py:716)
+2022-10-26 19:01 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:01 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:01 WARNING : Set not implemented for Anritsu_MS2830A.video_bw (instrument.py:771)
+2022-10-26 19:01 WARNING : Instrument does not implement function set_sweep_time (instrument.py:716)
+2022-10-26 19:03 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:03 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:03 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:108)
+2022-10-26 19:05 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:05 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:05 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:108)
+2022-10-26 19:09 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:09 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:09 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:108)
+2022-10-26 19:11 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:11 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:11 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:108)
+2022-10-26 19:11 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-10-26 19:11 INFO    : Labbrick : get all (Labbrick.py:77)
+2022-10-26 19:16 WARNING : Unable to load config file. (config_qt.py:62)
+2022-10-26 19:16 INFO    : Anritsu_MS2830A : Initializing instrument Agilent_E8257D (Anritsu_MS2830A.py:26)
+2022-10-26 19:16 INFO    : Anritsu_MS2830A : get all (Anritsu_MS2830A.py:108)
+2022-10-26 19:16 INFO    : Labbrick : Initializing instrument Labbrick (Labbrick.py:36)
+2022-10-26 19:16 INFO    : Labbrick : get all (Labbrick.py:77)

@@ -1,0 +1,73 @@
+SD_Error.OPENING_MODULE	-8000	Opening module
+SD_Error.CLOSING_MODULE	-8001	Closing module
+SD_Error.OPENING_HVI	-8002	Opening HVI
+SD_Error.CLOSING_HVI	-8003	Closing HVI
+SD_Error.MODULE_NOT_OPENED	-8004	Module not opened
+SD_Error.MODULE_NOT_OPENED_BY_USER	-8005	Module not opened by user
+SD_Error.MODULE_ALREADY_OPENED	-8006	Module already opened
+SD_Error.HVI_NOT_OPENED	-8007	HVI not opened, see SD1 commands:
+SD_Error.INVALID_OBJECTID	-8008	Invalid objectID
+SD_Error.INVALID_MODULEID	-8009	Invalid moduleID, see getType().
+SD_Error.INVALID_MODULEUSERNAME	-8010	Invalid moduleUsername
+SD_Error.INVALID_HVIID	-8011	Invalid HVIID
+SD_Error.INVALID_OBJECT	-8012	Invalid object
+SD_Error.INVALID_NCHANNEL	-8013	Invalid channelNumber
+SD_Error.BUS_DOES_NOT_EXIST	-8014	Bus does not exist
+SD_Error.BITMAP_ASSIGNED_DOES_NOT_EXIST	-8015	Any input assigned to the bitMap does not exist
+SD_Error.BUS_INVALID_SIZE	-8016	Input size does not fit on this bus
+SD_Error.BUS_INVALID_DATA	-8017	Input data does not fit on this bus
+SD_Error.INVALID_VALUE	-8018	Invalid value, see newFromArrayDouble().
+SD_Error.CREATING_WAVE	-8019	Creating waveform
+SD_Error.NOT_VALID_PARAMETERS	-8020	Invalid parameters
+SD_Error.AWG	-8021	AWG failed
+SD_Error.DAQ_INVALID_FUNCTIONALITY	-8022	DAQ invalid functionality
+SD_Error.DAQ_POOL_ALREADY_RUNNING	-8023	DAQ buffer pool is already running
+SD_Error.UNKNOWN	-8024	Unknown error
+SD_Error.INVALID_PARAMETERS	-8025	Invalid parameters, see FFT().
+SD_Error.MODULE_NOT_FOUND	-8026	Module not found
+SD_Error.DRIVER_RESOURCE_BUSY	-8027	Driver resource busy
+SD_Error.DRIVER_RESOURCE_NOT_READY	-8028	Driver resource not ready
+SD_Error.DRIVER_ALLOCATE_BUFFER	-8029	Driver cannot allocate buffer
+SD_Error.ALLOCATE_BUFFER	-8030	Cannot allocate buffer
+SD_Error.RESOURCE_NOT_READY	-8031	Resource not ready
+SD_Error.HARDWARE	-8032	Hardware error
+SD_Error.INVALID_OPERATION	-8033	Invalid operation
+SD_Error.NO_COMPILED_CODE	-8034	No compiled code in the module
+SD_Error.FW_VERIFICATION	-8035	Firmware verification failed
+SD_Error.COMPATIBILITY	-8036	Compatibility error
+SD_Error.INVALID_TYPE	-8037	Invalid type
+SD_Error.DEMO_MODULE	-8038	Demo module
+SD_Error.INVALID_BUFFER	-8039	Invalid buffer
+SD_Error.INVALID_INDEX	-8040	Invalid index
+SD_Error.INVALID_NHISTOGRAM	-8041	Invalid histogram number
+SD_Error.INVALID_NBINS	-8042	Invalid number of bins
+SD_Error.INVALID_MASK	-8043	Invalid mask
+SD_Error.INVALID_WAVEFORM	-8044	Invalid waveform
+SD_Error.INVALID_STROBE	-8045	Invalid strobe
+SD_Error.INVALID_STROBE_VALUE	-8046	Invalid strobe value
+SD_Error.INVALID_DEBOUNCING	-8047	Invalid debouncing
+SD_Error.INVALID_PRESCALER	-8048	Invalid prescaler
+SD_Error.INVALID_PORT	-8049	Invalid port
+SD_Error.INVALID_DIRECTION	-8050	Invalid direction
+SD_Error.INVALID_MODE	-8051	Invalid mode
+SD_Error.INVALID_FREQUENCY	-8052	Invalid frequency
+SD_Error.INVALID_IMPEDANCE	-8053	Invalid impedance
+SD_Error.INVALID_GAIN	-8054	Invalid gain
+SD_Error.INVALID_FULLSCALE	-8055	Invalid full scale
+SD_Error.INVALID_FILE	-8056	Invalid file
+SD_Error.INVALID_SLOT	-8057	Invalid slot
+SD_Error.INVALID_NAME	-8058	Invalid name
+SD_Error.INVALID_SERIAL	-8059	Invalid serial number
+SD_Error.INVALID_START	-8060	Invalid start
+SD_Error.INVALID_END	-8061	Invalid end
+SD_Error.INVALID_CYCLES	-8062	Invalid cycles
+SD_Error.HVI_INVALID_NUMBER_MODULES	-8063	Invalid number of modules on HVI
+SD_Error.DAQ_P2P_ALREADY_RUNNING	-8064	DAQ P2P is already running
+SD_Error.OPEN_DRAIN_NOT_SUPPORTED	-8065	Open drain not supported
+SD_Error.CHASSIS_PORTS_NOT_SUPPORTED	-8066	Chassis port not supported
+SD_Error.CHASSIS_SETUP_NOT_SUPPORTED	-8067	Chassis setup not supported
+SD_Error.OPEN_DRAIN_FAILED	-8068	Open drain failed
+SD_Error.CHASSIS_SETUP_FAILED	-8069	Chassis setup failed
+SD_Error.INVALID_PART	-8070	Invalid part
+SD_Error.INVALID_SIZE	-8071	Invalid size
+SD_Error.INVALID_HANDLE	-8072	Invalid handle

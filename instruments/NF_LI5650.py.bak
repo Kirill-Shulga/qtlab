@@ -1,0 +1,57 @@
+from instruments.instrument import Instrument
+import visa
+import types
+import time
+import logging
+import numpy
+import sys
+
+class NF_LI5650(Instrument):
+
+    def __init__(self, name, address):
+        logging.info(__name__ + ' : Initializing instrument LI5650 NF Lock In Amplifier')
+        Instrument.__init__(self, name, tags=['physical'])
+        
+        self.name = name
+        self.adress = address
+        
+        self.instrument = None
+        
+#--------------------------------------------------------------------------
+# frequently used fuctions
+        
+    def make_connection(self):
+        rm = visa.ResourceManager()
+        try:
+            self.instrument = rm.open_resource(self.adress)
+            print('connection to ' + self.name )
+            print('*IDN? ', self.instrument.query("*IDN?"))
+        except:
+            print('connection to ' + self.name +' faild.' )
+
+
+    def read_outp_in_string(self):
+        voltage = self.instrument.query(':FETC?') 
+        return voltage
+
+    def read_outp_in_ascii(self):
+        voltage = self.instrument.query_ascii_values(":FETC?")   
+        return voltage
+        
+        
+    def set_IntOsc_frequency(self, freq, unit):
+        command = "SOUR:FREQ " + str(freq) + unit
+        freq = self.instrument.write(command)   
+  
+    def ask_IntOsc_frequency(self):
+        readfreq = self.instrument.query_ascii_values(":SOUR:FREQ?")    
+        return readfreq
+  
+    
+    def set_IntOsc_amp(self, amp):
+        command = "SOUR:VOLT " + str(amp)
+        freq = self.instrument.write(command)   
+  
+    def ask_IntOsc_amp(self):
+        readamp = self.instrument.query(":SOUR:VOLT?")    
+        return readamp
